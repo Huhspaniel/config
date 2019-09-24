@@ -1,2 +1,2 @@
 # config
-JavaS1 config server
+config server
