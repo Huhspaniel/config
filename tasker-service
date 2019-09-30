@@ -1,0 +1,4 @@
+server.port = 8080
+
+# Allow for RefreshScope
+management.endpoints.web.exposure.include = *
