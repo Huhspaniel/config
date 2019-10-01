@@ -1,4 +1,4 @@
-server.port = 3345
+server.port = 6107
 
 # Allow for RefreshScope
 management.endpoints.web.exposure.include = *
