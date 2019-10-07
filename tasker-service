@@ -2,5 +2,3 @@ server.port = 8080
 
 # Allow for RefreshScope
 management.endpoints.web.exposure.include = *
-
-spring.jackson.serialization.WRITE_DATES_AS_TIMESTAMPS = false
